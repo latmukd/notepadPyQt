@@ -1,0 +1,2 @@
+# notepadPyQt
+Notepad using PyQt
