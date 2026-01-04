@@ -1,2 +1,2 @@
-# notepadPyQt
-Notepad using PyQt
+# notepadPySide
+Notepad using PySide
